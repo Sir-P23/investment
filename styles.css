@@ -53,7 +53,7 @@
     /* cont1 */
 
     .cont1{
-        background-image: url(/images/back1.jpg); 
+        background-image: url("images/back1.jpg"); 
         width: 100%;
         background-size: cover;
         background-position: 50% 50%; 
@@ -163,7 +163,7 @@
     }
 
     .image1{
-        width: 530px;
+        width: 450px;
         margin-top: 2%;
     } 
 
@@ -223,7 +223,7 @@
         color: rgb(248, 242, 242);
         display: flex;
         flex-wrap: wrap;
-        gap: 10%;
+        gap: 7%;
     }
 
     .tradingview-widget-container2{
@@ -233,7 +233,7 @@
     .writeups{
         height: 400px;
         color: white;
-        width: 650px;
+        width: 600px;
     }
 
     .writeup1{
@@ -341,12 +341,12 @@
     .comments-div{
         display: flex;
         flex-wrap: wrap;
-        padding: 0 3% 2%;
+        padding: 0 2% 2%;
         gap: 50px;
     }
 
     .commentor-div{
-        width: 500px;
+        width: 470px;
         padding: 2% 2% 0;
         border-radius: 20px;
         background-color: whitesmoke;
