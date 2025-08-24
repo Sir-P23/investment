@@ -657,7 +657,7 @@
     /* footer */
 
     footer{
-        padding: 2% 0 3%;
+        padding: 5% 0 3%;
         color: white;
         width: 100%;
         display: flex;
@@ -679,5 +679,23 @@
         font-size: 15px;
         font-weight: 900;
     }
+    
+    }
+
+    @media (max-width:390px) {
+     .cont5{
+        padding: 70% 0 3%;
+    }
+
+    .comp-logo{
+        width: 97%;
+        height: 70px;
+    }
+
+    .secure{
+        margin-top: 15%;
+        width: 97%;
+    }
+
     
     }
